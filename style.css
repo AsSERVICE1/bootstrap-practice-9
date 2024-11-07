@@ -1,0 +1,137 @@
+.hero-bg
+{
+    background-image: url(images/HG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.hero-grad
+{
+    background: linear-gradient(330.24deg, rgba(11, 29, 38, 0) 31.06%, #0B1D26 108.93%);
+}
+.navbar {
+     --bs-navbar-color: white;
+    --bs-navbar-active-color: white; 
+}
+.hero-p
+{
+    color: #FBD784;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22.05px;
+    letter-spacing: 6px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.hero-h2
+{
+    font-family: Chronicle Display;
+    font-size: 4em;
+    font-weight: 600;
+    line-height: 100px;
+    text-align: left;
+}
+.hero-a
+{
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.76px;
+    text-align: left;
+    color: #fff;
+    text-decoration: none;
+    --bs-icon-link-transform: translate3d(0, 0.200rem, 0);
+}
+.bg-hero
+{
+    background-image: url(images/MG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1422px;
+    margin-top: -330px;
+    padding: 0px;
+
+}
+.bg-hero2
+{
+    background-image: url(images/VG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 926px;
+    margin-top: -720px;
+}
+.bg-grad
+{
+    background: linear-gradient(180deg, rgb(0 0 0 / 0%) 0%, #0B1D26 61.38%);
+    height: 609px;
+    margin-top: -389px;
+}
+.number
+{
+    width: 240px;
+    height: 240px;
+    opacity: 0.2;
+    font-family: Gilroy;
+    font-size: 240px;
+    font-weight: 700;
+    line-height: 240px;
+    text-align: left;
+    color: aliceblue;
+}
+.footer-nav
+{
+    font-family: Gilroy;
+    font-size: 24px;
+    line-height: 32px;
+    color:#FBD784
+}
+.text-footertext
+{
+    text-decoration: none;
+    color: white;
+    font-family: Gilroy;
+    font-size: 18px;
+    line-height: 32px;
+}
+.foot-p
+{
+    font-family: Gilroy;
+    font-size: 18px;
+    line-height: 100px;
+    opacity: 50%;
+}
+.hero-aa
+{
+    color: #FBD784;
+    font-family: Gilroy;
+    font-size: 18px;
+    line-height: 21.76px;
+    text-decoration: none;
+}
+.nav-a
+{
+    text-decoration: none; 
+    display: flex;
+}
+.nav-link:hover, .nav-link:focus {
+    color: white;
+}
+.bod
+{
+    border: 0px;
+}
+.bod:focus
+{
+    box-shadow: 0px 0px;
+}
+.bg-herooooo
+{
+    background-image: url(images/MG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+    margin-top: -400px;
+    padding: 134px 0 0 0;
+}
